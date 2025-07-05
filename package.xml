@@ -4,10 +4,14 @@
  <version>2024.12.26</version>
  <date>2024.12.26</date>
  <description>2D-3D ColorPalette theme</description>
- <maintainer email="">altangarts@gmail</maintainer>
  <license file="LICENSE">LGPL-2.1-or-later</license>
- <url type="repository" branch="main">https://github.com/altangarts/FreeCAD-Themes-ColorPalette</url>
  <icon>resources/icons/ColorPaletteTheme.png</icon>
+
+  <maintainer email = 'altangarts@gmail.com'>Altangarts</maintainer>
+  <author email = 'altangarts@gmail.com'>Altangarts</author>
+
+  <url type = 'repository' branch = 'main' >https://github.com/altangarts/FreeCAD-Themes-ColorPalette</url>
+  <url type = 'readme' >https://github.com/altangarts/FreeCAD-Themes-ColorPalette/blob/main/README.md</url>
 
 <content>
   <preferencepack>
